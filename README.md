@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on CloudSecrets
 - 🌱 I’m currently learning Android
-- 💬 Ask me about Dart, Flutter
+- 💬 Ask me about Dart, Flutter or any tech-related stuff.
 - 📫 How to reach me: **ahmed.ezzeldin.ibrahim@gmail.com**
 - 📄 Know about my experiences [CV.pdf](https://drive.google.com/file/d/1qCddJCqgbQZZzUpw_Z6Rva21PCnrxqhqhfgeas/view)
 <hr>
