@@ -1,10 +1,10 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ahmed Ezzeldin</h1>
-<h4 align="left">A mobile application developer from Egypt</h4>
+<h4 align="left">A mobile application developer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ezzeldin-ibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ezzeldin-ibrahim" /> </p>
 
 - 🔭 I’m currently working on CloudSecrets
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Swift
 - 💬 Ask me about Dart, Flutter or any tech-related stuff.
 - 📫 How to reach me: **ahmed.ezzeldin.ibrahim@gmail.com**
 - 📄 Know about my experiences [CV.pdf](https://drive.google.com/file/d/1qCddJCqgbQZZzUpw_Z6Rva21PCnrxqhqhfgeas/view)
