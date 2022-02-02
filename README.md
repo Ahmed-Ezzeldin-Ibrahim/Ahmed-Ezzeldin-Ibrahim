@@ -29,7 +29,7 @@ where you can at any time and from anywhere book an appointment, <br/>
 specify the time and required services, and then send a request to reserve the appointment to us. 
 <br/>The site also offers hair and skin care products and shaving tools.
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.cloudsecrets.theconceptapplication" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get_it_on_google_play-3BD482?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.cloudsecrets.theconceptapplication" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get_it_on_google_play-73b853?style=for-the-badge&logo=google-play&logoColor=white" /></a>
 <a href="https://apps.apple.com/us/app/urbanspoon/id1588731504" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/get_it_on_app_store-black?style=for-the-badge&logo=app-store&logoColor=white" /></a>
 <p>
 
