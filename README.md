@@ -24,6 +24,12 @@
 <h2>Samples from my projects </h2>
 
 ### The Concept
+
+<!--================== App version on google play ==================-->
+<!--<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dcom.cloudsecrets.theconceptapplication%26l%3Dversion%26m%3D%24version&color=0e75b6&style=flat"/>-->
+<!--================== Total lines of code in repo ==================-->
+<!--<img src="https://tokei.rs/b1/github/Ahmed-Ezzeldin-Ibrahim/My-G-Taxi"/>-->
+
 The Concept is an application for booking shaving services and appointments, <br/>
 where you can at any time and from anywhere book an appointment, <br/>
 specify the time and required services, and then send a request to reserve the appointment to us. 
