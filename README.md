@@ -39,6 +39,16 @@ specify the time and required services, and then send a request to reserve the a
 <!--====================================================================================-->
 <hr>
 
+### Docto
+Docto is the leading mobile application for dental care, as the application enables you to know all dental clinics and book available appointments with ease.
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.it.doctoapp" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get_it_on_google_play-73b853?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+<a href="https://apps.apple.com/us/app/urbanspoon/id15887315040" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/get_it_on_app_store-black?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+<p>
+
+<!--====================================================================================-->
+<hr>
+
 ### Jordan Cars
 Jordan Cars is your one-stop shop to buy and sell cars in Jordan!  <br/>
 Our digital automotive platform offers you the easiest and most convenient way to buy and sell cars. <br/>
