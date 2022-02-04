@@ -21,15 +21,12 @@
 
 <hr>
 
+<!--####################################################################################-->
+<!--####################################################################################-->
+
 <h2>Samples from my projects </h2>
 
 ### The Concept
-
-<!--================== App version on google play ==================-->
-<!--<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dcom.cloudsecrets.theconceptapplication%26l%3Dversion%26m%3D%24version&color=0e75b6&style=flat"/>-->
-<!--================== Total lines of code in repo ==================-->
-<!--<img src="https://tokei.rs/b1/github/Ahmed-Ezzeldin-Ibrahim/My-G-Taxi"/>-->
-
 The Concept is an application for booking shaving services and appointments, <br/>
 where you can at any time and from anywhere book an appointment, <br/>
 specify the time and required services, and then send a request to reserve the appointment to us. 
@@ -39,7 +36,42 @@ specify the time and required services, and then send a request to reserve the a
 <a href="https://apps.apple.com/us/app/urbanspoon/id1588731504" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/get_it_on_app_store-black?style=for-the-badge&logo=app-store&logoColor=white" /></a>
 <p>
 
+<!--====================================================================================-->
+<hr>
 
+### Jordan Cars
+Jordan Cars is your one-stop shop to buy and sell cars in Jordan!  <br/>
+Our digital automotive platform offers you the easiest and most convenient way to buy and sell cars. <br/>
+Browse through a wide selection of new and used cars from an extensive network of qualified dealers.
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.jordancars" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get_it_on_google_play-73b853?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+<a href="https://apps.apple.com/us/app/urbanspoon/id15887315040" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/get_it_on_app_store-black?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+<p>
+
+<!--====================================================================================-->
+<hr>
+
+### Flower Sale
+FlowerSale is an online flowers and gifting company, <br/>
+we pride ourselves in creating a seamless experience for our customers and making sending flowers and gifts as enjoyable as receiving them.
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.hawzen.flowerSale" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get_it_on_google_play-73b853?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+<a href="https://apps.apple.com/us/app/urbanspoon/id15887315040" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/get_it_on_app_store-black?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+<p>
+
+<!--====================================================================================-->
+<hr>
+
+### Magic Ball
+Magic ball is the first and largest online store in the world that specializes only in selling jewelry and all crafting supplies.<br/>
+Which means here the real world for all the requirements of the jeweler
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.magicball.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get_it_on_google_play-73b853?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+<a href="https://apps.apple.com/us/app/urbanspoon/id15887315040" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/get_it_on_app_store-black?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+<p>
+
+<!--####################################################################################-->
+<!--####################################################################################-->
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -78,5 +110,14 @@ specify the time and required services, and then send a request to reserve the a
 <hr>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ezzeldin-ibrahim&theme=gotham" alt="ahmed-ezzeldin-ibrahim" /></p>
+
+<!--####################################################################################-->
+<!--############################## Used Badges (Commented) #############################-->
+<!--####################################################################################-->
+
+<!--================== App version on google play ==================-->
+<!--<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dcom.cloudsecrets.theconceptapplication%26l%3Dversion%26m%3D%24version&color=0e75b6&style=flat"/>-->
+<!--================== Total lines of code in repo ==================-->
+<!--<img src="https://tokei.rs/b1/github/Ahmed-Ezzeldin-Ibrahim/My-G-Taxi"/>-->
 
 
