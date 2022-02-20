@@ -111,15 +111,15 @@ Which means here the real world for all the requirements of the jeweler
  
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-ezzeldin-ibrahim&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ahmed-ezzeldin-ibrahim" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-ezzeldin&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ahmed-ezzeldin" /></p>
 
 <hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-ezzeldin-ibrahim&show_icons=true&locale=en&theme=gotham" alt="ahmed-ezzeldin-ibrahim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-ezzeldin&show_icons=true&locale=en&theme=gotham" alt="ahmed-ezzeldin-ibrahim" /></p>
 
 <hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ezzeldin-ibrahim&theme=gotham" alt="ahmed-ezzeldin-ibrahim" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ezzeldin&theme=gotham" alt="ahmed-ezzeldin" /></p>
 
 <!--####################################################################################-->
 <!--############################## Used Badges (Commented) #############################-->
