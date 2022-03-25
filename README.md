@@ -29,8 +29,8 @@
 ### Qarat (POS)
 Qarat is an POS (Point of Sale) System for sale Gold and Jewels in Saudi Arabia. <br/>
 <p>
-<a href="https://play.google.com/store/apps/details?id=com.cloudsecrets.theconceptapplicationz" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get_it_on_google_play-73b853?style=for-the-badge&logo=google-play&logoColor=white" /></a>
-<a href="https://apps.apple.com/us/app/urbanspoon/id15887315040" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/get_it_on_app_store-black?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.cloudsecret.qaratpos" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/get_it_on_google_play-73b853?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+<a href="https://apps.apple.com/us/app/urbanspoon/id1604157231" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/get_it_on_app_store-black?style=for-the-badge&logo=app-store&logoColor=white" /></a>
 <p>
 
 <!--====================================================================================-->
