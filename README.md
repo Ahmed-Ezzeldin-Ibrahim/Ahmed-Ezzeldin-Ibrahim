@@ -24,7 +24,6 @@
 </p> -->
 <!-- <hr> -->
 
-
 <!--####################################################################################-->
 <!--####################################################################################-->
 
@@ -60,18 +59,20 @@
 
 <!--===================================================================== Top Languages -->
 <!--<p><img align="center" width="40%"-->
-<p><img align="center" width="400"
+
+<img align="center" width="300"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-ezzeldin&show_icons=true&locale=en&layout=compact&theme=gotham" 
-alt="ahmed-ezzeldin" /></p>
+alt="ahmed-ezzeldin" />
 
 <!--====================================================================== Github Stats -->
-<p><img align="center" width="400"
-src="https://github-readme-stats.vercel.app/api?username=ahmed-ezzeldin&show_icons=true&locale=en&theme=gotham" 
-alt="ahmed-ezzeldin-ibrahim" /></p>
+
+<img width="300" align="left"
+src="https://github-readme-stats.vercel.app/api?username=ahmed-ezzeldin&show_icons=true&locale=en&theme=gotham"/>
 
 <!--===================================================================== Github Streak -->
-<p><img align="center" width="400"
-src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ezzeldin&theme=gotham" alt="ahmed-ezzeldin" /></p>
+
+<img width="300" align="left"
+src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ezzeldin&theme=gotham"/>
 
 <!--####################################################################################-->
 <!--####################################################################################-->
