@@ -66,12 +66,12 @@ alt="ahmed-ezzeldin" />
 
 <!--====================================================================== Github Stats -->
 
-<img width="300" align="left"
+<img width="350" align="left"
 src="https://github-readme-stats.vercel.app/api?username=ahmed-ezzeldin&show_icons=true&locale=en&theme=gotham"/>
 
 <!--===================================================================== Github Streak -->
 
-<img width="300" align="left"
+<img width="350" align="left"
 src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ezzeldin&theme=gotham"/>
 
 <!--####################################################################################-->
